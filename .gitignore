@@ -1,0 +1,5 @@
+.DS_Store
+*.cache
+package-metadata.json
+*.sublime-workspace
+scripts/
